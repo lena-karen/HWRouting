@@ -1,0 +1,14 @@
+.nav_menu {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav_menu a {
+    padding: 5px 0;
+    border: 2px solid blue;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 300px;
+    text-align: center;
+}
